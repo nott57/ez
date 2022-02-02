@@ -1,2 +1,4 @@
-# ez
-ezez
+	game.Players.LocalPlayer:kick("epicccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc")
+	wait(1)
+	game:Shutdown()
+end
